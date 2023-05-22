@@ -48,7 +48,7 @@ The Right Price is a guessing game where you have to guess the correct price of 
 1. Navigate to the game's directory: cd games/game-name
 2. Run the game: python game-name.py
 
-##Dependencies
+## Dependencies
 The following dependencies are required to run the games:
 
 autopep8==2.0.1
@@ -57,7 +57,7 @@ pygame==2.1.3
 tomli==2.0.1
 Unidecode==1.3.6
 
-##Contributing
+## Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
