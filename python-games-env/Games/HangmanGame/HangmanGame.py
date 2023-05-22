@@ -1,7 +1,7 @@
 from random import choice
 from unidecode import unidecode
 
-my_file_path = r"Python-Games-env/Games/Jeu du Pendu/motsPendu.txt"
+my_file_path = r"Python-Games-env/Games/HangmanGame/HangmanWords.txt"
 
 nb_erreur = 0
 
