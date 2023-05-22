@@ -12,31 +12,31 @@ This project is a collection of mini games coded in Python. Each game is located
 - TheRightPrice
 - Casiono
 
-# Hangman Game
+### Hangman Game
 
 The Hangman Game is a word-guessing game. You have to guess the letters of a hidden word before making too many wrong guesses. You can choose to play with a random word or define your own word. The game provides a visual representation of the hangman as you make wrong guesses.
 
-# Noughts and Crosses (Tic-Tac-Toe)
+### Noughts and Crosses (Tic-Tac-Toe)
 
 Noughts and Crosses, also known as Tic-Tac-Toe, is a classic board game. Two players take turns marking spaces in a 3x3 grid, aiming to get three of their marks in a horizontal, vertical, or diagonal row. The first player to achieve this wins the game.
 
-# Pong
+### Pong
 
 Pong is a simple table tennis sports game. Two paddles (left and right) move vertically on the screen, and players use them to hit the ball back and forth. The goal is to make the ball pass the opponent's paddle. The game continues until one player reaches a certain score.
 
-# Rock, Paper, Scissors
+### Rock, Paper, Scissors
 
 Rock, Paper, Scissors is a hand game played between two people. Each player simultaneously forms one of three shapes with an outstretched hand: rock (a closed fist), paper (an open hand), or scissors (a fist with the index and middle fingers extended). The winner is determined by the rules: rock beats scissors, scissors beat paper, and paper beats rock.
 
-# Snake
+### Snake
 
 Snake is a popular arcade game where you control a snake that moves around the screen, eating food and growing longer. The snake must avoid hitting walls or its own tail. The game ends if the snake collides with a wall or itself. The goal is to eat as much food as possible and achieve the highest score.
 
-# The Right Price
+### The Right Price
 
 The Right Price is a guessing game where you have to guess the correct price of various products. You are provided with clues, such as higher or lower, to help you narrow down the price range. The goal is to guess the correct price within a limited number of attempts.
 
-# Casino
+### Casino
 
 ## Installation
 
