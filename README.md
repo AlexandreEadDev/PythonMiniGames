@@ -10,7 +10,7 @@ This project is a collection of mini games coded in Python. Each game is located
 - RockPaperScizor
 - Snake
 - TheRightPrice
-- Casiono
+- Casino
 
 ### Hangman Game
 
